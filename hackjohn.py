@@ -23,13 +23,13 @@ spaces = 2
 exclude = [
 #     'Happy Isles->Little Yosemite Valley',
 #     'Happy Isles->Sunrise/Merced Lake (pass through)',
-    'Glacier Point->Little Yosemite Valley',
-    'Sunrise Lakes',
+#    'Glacier Point->Little Yosemite Valley',
+#    'Sunrise Lakes',
     'Lyell Canyon',
 ]
 
 # Dates you'd like to start on (inclusive of end date)
-dates = pandas.date_range(start='2018-08-30', end='2018-10-05', freq='D')
+dates = pandas.date_range(start='2019-06-08', end='2019-10-05', freq='D')
 dates
 
 
