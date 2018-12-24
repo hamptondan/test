@@ -89,7 +89,7 @@ enable_middleman = False
 
 # Get token from messaging /start to @MiddleManBot on Telegram
 # https://telegram.me/MiddleManBot
-token = 'replace-with-private-telegram-middlemanbot-token'
+token = 'bf18b562-310b-46e1-8f17-9c133682429a'
 
 hostname = 'https://middleman.ferdinand-muetsch.de'
 mmb_url = hostname + '/api/messages'
